@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://reclaimjunk.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
